@@ -1,4 +1,5 @@
 # 👋 Hey, I'm Sara Redwan  
+[![GitHub Streak](https://streak-stats.demolab.com?user=SaraRedwan)](https://git.io/streak-stats)
 
 💻 **Software Engineer** | Turning ideas into real solutions  
 
