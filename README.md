@@ -12,11 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=750&lines=Software+Engineering+Student+%F0%9F%92%BB;Mobile+%26+Web+Developer+%F0%9F%93%B1;UI%2FUX+Enthusiast+%F0%9F%8E%A8;A2SVian+%F0%9F%9A%80;Turning+Ideas+Into+Real+Products+%E2%9C%A8;Always+Learning.+Always+Building.+%F0%9F%8C%B1"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/susured22y">
-    <img src="https://komarev.com/ghpvc/?username=susured22y&label=Profile%20Visitors&color=F59E0B&style=for-the-badge"/>
-  </a>
-</p>
+
 
 ---
 
