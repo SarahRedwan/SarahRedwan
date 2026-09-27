@@ -84,14 +84,11 @@ I care about how technology feels, not only how it works.
 ## 🛠️ My Tech Universe
 
 <p align="center">
-<br><br>
 <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,dart,php" />
 
-<br><br>
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,mysql,mongodb" />
 
-<br><br>
 
 <img src="https://skillicons.dev/icons?i=flutter,firebase,figma,git,github,docker,vscode" />
 
