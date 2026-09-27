@@ -84,7 +84,7 @@ I care about how technology feels, not only how it works.
 ## 🛠️ My Tech Universe
 
 <p align="center">
-
+<br><br>
 <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,dart,php" />
 
 <br><br>
